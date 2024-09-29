@@ -1,0 +1,157 @@
+[
+  {
+    "name": "12th Fail",
+    "image": "/images/12th-fail-.jpg",
+    "backgroundImage": "/images/12th_banner.jpg",
+    "ratingImage": "/images/star.jpg",
+    "rating": "4.7/5",
+    "type": "2D",
+    "categories": "Drama, U, 27 Oct, 2023",
+    "description": "Based on Anurag Pathak's bestselling novel, '12th Fail' follows the inspiring journey of a young student struggling against the odds to succeed in life.",
+    "director": "Vidhu V. Chopra",
+    "cast": [
+      {
+        "name": "Vikrant Massey",
+        "image": "/images/vikrant.jpg"
+      },
+      {
+        "name": "Medha Shankar",
+        "image": "/images/medha.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Vidhu V. Chopra",
+        "image": "/images/vidhu.jpg"
+      },
+      {
+        "name": "Zee Studios",
+        "image": "/images/zee.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Animal",
+    "image": "/images/animal.jpg",
+    "backgroundImage": "/images/animal_background.jpg",
+    "ratingImage": "/images/star.jpg",
+    "rating": "4.5/5",
+    "type": "2D",
+    "categories": "Action, Thriller, U/A, 1 Dec, 2023",
+    "description": "A violent and gripping tale of family betrayal, crime, and redemption, set against the dark underbelly of the city.",
+    "director": "Sandeep Reddy Vanga",
+    "cast": [
+      {
+        "name": "Ranbir Kapoor",
+        "image": "/images/ranbir.jpg"
+      },
+      {
+        "name": "Anil Kapoor",
+        "image": "/images/anil.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sandeep Reddy Vanga",
+        "image": "/images/sandeep.jpg"
+      },
+      {
+        "name": "Bhushan Kumar",
+        "image": "/images/bhushan.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Jawan",
+    "image": "/images/jawan.jpeg",
+    "backgroundImage": "/images/jawan_background.jpg",
+    "ratingImage": "/images/star.jpg",
+    "rating": "4.8/5",
+    "type": "2D",
+    "categories": "Action, Drama, U/A, 7 Sep, 2023",
+    "description": "An emotional roller-coaster with action-packed sequences, 'Jawan' showcases the story of a man determined to fight against societal injustice.",
+    "director": "Atlee Kumar",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "image": "/images/srk.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "image": "/images/nayanthara.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Atlee Kumar",
+        "image": "/images/atlee.jpg"
+      },
+      {
+        "name": "Gauri Khan",
+        "image": "/images/gauri.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tiger 3",
+    "image": "/images/tiger3.jpg",
+    "backgroundImage": "/images/tiger3_background.jpg",
+    "ratingImage": "/images/star.jpg",
+    "rating": "4.6/5",
+    "type": "2D",
+    "categories": "Action, Adventure, U/A, 10 Nov, 2023",
+    "description": "Tiger is back on a mission that will take him across continents, facing new challenges and enemies.",
+    "director": "Maneesh Sharma",
+    "cast": [
+      {
+        "name": "Salman Khan",
+        "image": "/images/sallu.jpg"
+      },
+      {
+        "name": "Katrina Kaif",
+        "image": "/images/katrina.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Maneesh Sharma",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Maneesh_Sharma.jpg/800px-Maneesh_Sharma.jpg"
+      },
+      {
+        "name": "Yash Raj Films",
+        "image": "/images/yrf.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Pushpa 2: The Rule",
+    "image": "/images/p.jpeg",
+    "backgroundImage": "/images/pushpa_background.jpg",
+    "ratingImage": "/images/star.jpg",
+    "rating": "4.9/5",
+    "type": "2D",
+    "categories": "Action, Drama, U/A, 15 Aug, 2024",
+    "description": "The journey of Pushpa continues, filled with new challenges, rivals, and the struggle for power.",
+    "director": "Sukumar",
+    "cast": [
+      {
+        "name": "Allu Arjun",
+        "image": "/images/allu.jpg"
+      },
+      {
+        "name": "Rashmika Mandanna",
+        "image": "/images/rashmika.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sukumar",
+        "image": "/images/sukumar.jpg"
+      },
+      {
+        "name": "Mythri Movie Makers",
+        "image": "/images/maitri.jpg"
+      }
+    ]
+  }
+]
