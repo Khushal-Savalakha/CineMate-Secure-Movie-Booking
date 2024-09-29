@@ -1,0 +1,10 @@
+/* Hide both horizontal and vertical scrollbars */
+.date-selector{
+    scrollbar-width: none !important; 
+    -ms-overflow-style: none !important; 
+  }
+  
+  .date-selector::-webkit-scrollbar {
+    display: none !important; 
+  }
+  
